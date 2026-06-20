@@ -31,7 +31,7 @@ This Power BI dashboard provides insights into sales performance, profit, orders
 - Data Visualization
 
 ## Dashboard Preview
-(Upload dashboard.png and replace this line with image later)
+![Dashboard](dashboard.png.png)
 
 ## Author
 Adarsh Kumar
